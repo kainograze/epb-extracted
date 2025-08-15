@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1141552782183886}
+  m_IsPrefabParent: 1
+--- !u!1 &1141552782183886
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4683383192027132}
+  - component: {fileID: 33436692566046436}
+  - component: {fileID: 135053969958963362}
+  - component: {fileID: 114341907594651498}
+  - component: {fileID: 114464976207348738}
+  m_Layer: 2
+  m_Name: CannonBall
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4683383192027132
+Transform:
+  m_GameObject: {fileID: 1141552782183886}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -292.7913, y: 827.061, z: -1496.526}
+  m_LocalScale: {x: 11.09455, y: 11.09455, z: 11.09455}
+  m_Children:
+  - {fileID: 4677638523404517}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &33436692566046436
+MeshFilter:
+  m_GameObject: {fileID: 1141552782183886}
+  m_Mesh: {fileID: 4300000, guid: e7c8b6056193df24080116312004acb5, type: 2}
+--- !u!135 &135053969958963362
+SphereCollider:
+  m_GameObject: {fileID: 1141552782183886}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 0
+  serializedVersion: 2
+  m_Radius: 0.7
+  m_Center: {x: 5.960464E-08, y: 0, z: -8.940697E-08}
+--- !u!114 &114341907594651498
+MonoBehaviour:
+  m_GameObject: {fileID: 1141552782183886}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61b268142acd6544bac030d4aca10203, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  Speed: 3.67
+  Interval: 0.1
+  LifeSpanLimit: 5.5
+  DistanceCheckInterval: 0.05
+--- !u!114 &114464976207348738
+MonoBehaviour:
+  m_GameObject: {fileID: 1141552782183886}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07ca5224b94cf8e48bd7275c7fe1f4ea, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  Explosion: {fileID: 4209697858729329, guid: 38255d8ecb2387b46bd8cb807b17c0f2, type: 2}
+  Health: 1
+  ScoreID: 0
+--- !u!1 &1762027172287733
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4677638523404517}
+  - component: {fileID: 33115678204751818}
+  - component: {fileID: 135815148391636235}
+  - component: {fileID: 114817825057383871}
+  m_Layer: 0
+  m_Name: CannonBall
+  m_TagString: Hittable
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4677638523404517
+Transform:
+  m_GameObject: {fileID: 1762027172287733}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 2.057976, y: 2.057976, z: 2.057976}
+  m_Children: []
+  m_Father: {fileID: 4683383192027132}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &33115678204751818
+MeshFilter:
+  m_GameObject: {fileID: 1762027172287733}
+  m_Mesh: {fileID: 4300000, guid: e7c8b6056193df24080116312004acb5, type: 2}
+--- !u!135 &135815148391636235
+SphereCollider:
+  m_GameObject: {fileID: 1762027172287733}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 0
+  serializedVersion: 2
+  m_Radius: 0.5000001
+  m_Center: {x: 5.960464E-08, y: 0, z: -8.940697E-08}
+--- !u!114 &114817825057383871
+MonoBehaviour:
+  m_GameObject: {fileID: 1762027172287733}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07ca5224b94cf8e48bd7275c7fe1f4ea, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  Explosion: {fileID: 4417143179726939, guid: 83af7f0f87bf78c42b734d894c8b2973, type: 2}
+  Health: 500
+  ScoreID: 0

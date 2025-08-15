@@ -1,0 +1,459 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1792486297304392}
+  m_IsPrefabParent: 1
+--- !u!1 &1792486297304392
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4982295620069323}
+  m_Layer: 0
+  m_Name: Whale
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4982295620069323
+Transform:
+  m_GameObject: {fileID: 1792486297304392}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 128.5948, y: -330.106, z: 309.3961}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4624394766578071}
+  - {fileID: 4088129297706480}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1256408966442943
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4624394766578071}
+  - component: {fileID: 111374293849974936}
+  - component: {fileID: 114218117070095725}
+  m_Layer: 0
+  m_Name: whale01_v3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4624394766578071
+Transform:
+  m_GameObject: {fileID: 1256408966442943}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.369091, y: 12.47128, z: -0.1674085}
+  m_LocalScale: {x: 10.5711, y: 10.5711, z: 10.5711}
+  m_Children:
+  - {fileID: 4633116691074376}
+  m_Father: {fileID: 4982295620069323}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!111 &111374293849974936
+Animation:
+  m_GameObject: {fileID: 1256408966442943}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 0}
+  m_Animations:
+  - {fileID: 7400000, guid: 7028b8b7956f3d04f9ad67be41d0fe0f, type: 2}
+  m_WrapMode: 2
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
+--- !u!114 &114218117070095725
+MonoBehaviour:
+  m_GameObject: {fileID: 1256408966442943}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edd60fdedc93b51449aa7cf61d9d8dd8, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  waypoints:
+  - {fileID: 4297618673682191}
+  - {fileID: 4541312179930964}
+  - {fileID: 4050612382839393}
+  - {fileID: 4266035463852115}
+  waypointRadius: 70
+  damping: 0.58
+  speed: 2
+  state: 0
+--- !u!1 &1771819219025550
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4633116691074376}
+  - component: {fileID: 111121088602424779}
+  m_Layer: 0
+  m_Name: whale01_v07_low2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4633116691074376
+Transform:
+  m_GameObject: {fileID: 1771819219025550}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.082583E-06, y: -0.1103517, z: -3.157534E-07}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4374908381366722}
+  - {fileID: 4298702908435515}
+  m_Father: {fileID: 4624394766578071}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!111 &111121088602424779
+Animation:
+  m_GameObject: {fileID: 1771819219025550}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 0}
+  m_Animations:
+  - {fileID: 7400000, guid: 4c43571244be36145a7712ea24952153, type: 2}
+  m_WrapMode: 2
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
+--- !u!1 &1911947575750807
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4374908381366722}
+  m_Layer: 0
+  m_Name: whale
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4374908381366722
+Transform:
+  m_GameObject: {fileID: 1911947575750807}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: -3.33786E-06, y: 0, z: 0}
+  m_LocalScale: {x: 0.9999999, y: 0.9999997, z: 0.9999997}
+  m_Children: []
+  m_Father: {fileID: 4633116691074376}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
+--- !u!1 &1935062351355075
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4298702908435515}
+  m_Layer: 0
+  m_Name: whale_bone_head
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4298702908435515
+Transform:
+  m_GameObject: {fileID: 1935062351355075}
+  m_LocalRotation: {x: -6.657903E-08, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.1993107, z: -0.3176958}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_Children:
+  - {fileID: 4551225517525935}
+  - {fileID: 4109299511375465}
+  - {fileID: 4491104795015388}
+  m_Father: {fileID: 4633116691074376}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: -7.629395E-06, y: 0, z: 0}
+--- !u!1 &1236287953679138
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4551225517525935}
+  m_Layer: 0
+  m_Name: whale_bone_finL
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4551225517525935
+Transform:
+  m_GameObject: {fileID: 1236287953679138}
+  m_LocalRotation: {x: 0.1227879, y: -0.6963642, z: 0.1227879, w: 0.6963642}
+  m_LocalPosition: {x: -0.01266, y: -0.01022353, z: 0.002228178}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4298702908435515}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 20.00002, y: 90, z: 0}
+--- !u!1 &1568153223778500
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4109299511375465}
+  m_Layer: 0
+  m_Name: whale_bone_finR
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4109299511375465
+Transform:
+  m_GameObject: {fileID: 1568153223778500}
+  m_LocalRotation: {x: 0.1227879, y: 0.6963642, z: -0.1227879, w: 0.6963642}
+  m_LocalPosition: {x: 0.0126624, y: -0.01022353, z: 0.002228178}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4298702908435515}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 20.00002, y: -90, z: 0}
+--- !u!1 &1197802976181950
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4491104795015388}
+  m_Layer: 0
+  m_Name: whale_bone_tail1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4491104795015388
+Transform:
+  m_GameObject: {fileID: 1197802976181950}
+  m_LocalRotation: {x: 1, y: 0, z: 0, w: 0}
+  m_LocalPosition: {x: 0, y: -9.23872E-09, z: -0.002603262}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4701188793867169}
+  m_Father: {fileID: 4298702908435515}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 180, y: 0, z: 0}
+--- !u!1 &1090920470685872
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4701188793867169}
+  m_Layer: 0
+  m_Name: whale_bone_tail2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4701188793867169
+Transform:
+  m_GameObject: {fileID: 1090920470685872}
+  m_LocalRotation: {x: 8.742278E-08, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 4.470348E-09, z: 0.02383609}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4793032815593945}
+  m_Father: {fileID: 4491104795015388}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 1.001791E-05, y: 0, z: 0}
+--- !u!1 &1066184340452809
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4793032815593945}
+  m_Layer: 0
+  m_Name: whale_bone_tail3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4793032815593945
+Transform:
+  m_GameObject: {fileID: 1066184340452809}
+  m_LocalRotation: {x: -1.509958E-07, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 9.089709E-09, z: 0.02499214}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4524645781068203}
+  m_Father: {fileID: 4701188793867169}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -1.730284E-05, y: 0, z: 0}
+--- !u!1 &1357205839362045
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4524645781068203}
+  m_Layer: 0
+  m_Name: whale_bone_tail4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4524645781068203
+Transform:
+  m_GameObject: {fileID: 1357205839362045}
+  m_LocalRotation: {x: 8.742278E-08, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 1.490116E-09, z: 0.02447183}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4793032815593945}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 1.001791E-05, y: 0, z: 0}
+--- !u!1 &1448930778194751
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4088129297706480}
+  m_Layer: 0
+  m_Name: WhaleWaypoints
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4088129297706480
+Transform:
+  m_GameObject: {fileID: 1448930778194751}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.45818, y: -0.5268407, z: -0.1674085}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4297618673682191}
+  - {fileID: 4541312179930964}
+  - {fileID: 4050612382839393}
+  - {fileID: 4266035463852115}
+  m_Father: {fileID: 4982295620069323}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1781843948110927
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4297618673682191}
+  - component: {fileID: 114224897945424969}
+  m_Layer: 0
+  m_Name: wp1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4297618673682191
+Transform:
+  m_GameObject: {fileID: 1781843948110927}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.5635571, y: -0.0008692741, z: 246.2236}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4088129297706480}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114224897945424969
+MonoBehaviour:
+  m_GameObject: {fileID: 1781843948110927}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1caa6e4c246dfa242b93cd97615134b4, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+--- !u!1 &1510890881678112
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4541312179930964}
+  - component: {fileID: 114926734423417112}
+  m_Layer: 0
+  m_Name: wp2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4541312179930964
+Transform:
+  m_GameObject: {fileID: 1510890881678112}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -250.9044, y: -0.001357555, z: 1.400105}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4088129297706480}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114926734423417112
+MonoBehaviour:
+  m_GameObject: {fileID: 1510890881678112}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1caa6e4c246dfa242b93cd97615134b4, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+--- !u!1 &1133312293986459
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4050612382839393}
+  - component: {fileID: 114333798182104289}
+  m_Layer: 0
+  m_Name: wp3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4050612382839393
+Transform:
+  m_GameObject: {fileID: 1133312293986459}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -18.9142, y: -0.0003809929, z: -238.8408}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4088129297706480}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114333798182104289
+MonoBehaviour:
+  m_GameObject: {fileID: 1133312293986459}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1caa6e4c246dfa242b93cd97615134b4, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+--- !u!1 &1354044013631221
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4266035463852115}
+  - component: {fileID: 114930642106776938}
+  m_Layer: 0
+  m_Name: wp4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4266035463852115
+Transform:
+  m_GameObject: {fileID: 1354044013631221}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 195.6752, y: -0.0008692741, z: -8.40147}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4088129297706480}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114930642106776938
+MonoBehaviour:
+  m_GameObject: {fileID: 1354044013631221}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1caa6e4c246dfa242b93cd97615134b4, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:

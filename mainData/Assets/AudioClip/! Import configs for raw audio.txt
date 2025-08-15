@@ -1,0 +1,4 @@
+Encoding: Signed 16-bit PCM
+Byte order: little endian
+Channels: 1 (mono)
+Sample rate: 22050 Hz

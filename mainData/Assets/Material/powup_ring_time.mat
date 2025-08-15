@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_Name: powup_ring_time
+  m_Shader: {fileID: 4800000, guid: 2907d5f989a50d848a3a352e8c19510b, type: 3}
+  m_ShaderKeywords:
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 0
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: b37dab5c4d287104da6ce824cf76ebb0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ShadowTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FalloffTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReflectionTex:
+        m_Texture: {fileID: 2800000, guid: b37dab5c4d287104da6ce824cf76ebb0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RefractionTex:
+        m_Texture: {fileID: 2800000, guid: b37dab5c4d287104da6ce824cf76ebb0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Fresnel:
+        m_Texture: {fileID: 2800000, guid: b37dab5c4d287104da6ce824cf76ebb0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReflectiveColor:
+        m_Texture: {fileID: 2800000, guid: b37dab5c4d287104da6ce824cf76ebb0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReflectiveColorCube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Cutoff: 0.9
+    - _BaseLight: 0.35
+    - _AO: 2.4
+    - _Occlusion: 7.5
+    - _WaveScale: 0.063
+    - _ReflDistort: 0.44
+    - _RefrDistort: 0.4
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 0.8431373}
+    - _ReflectColor: {r: 1, g: 1, b: 1, a: 0.5}
+    - _TintColor: {r: 0.1215686, g: 0.3803922, b: 1, a: 0.1882353}
+    - _Scale: {r: 1, g: 1, b: 1, a: 1}
+    - WaveSpeed: {r: 19, g: 9, b: -16, a: -7}
+    - _RefrColor: {r: 0.34, g: 0.85, b: 0.92, a: 1}
+    - _HorizonColor: {r: 0.172, g: 0.463, b: 0.435, a: 1}

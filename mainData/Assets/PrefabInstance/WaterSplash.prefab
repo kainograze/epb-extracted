@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1973568871297281}
+  m_IsPrefabParent: 1
+--- !u!1 &1973568871297281
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4835148800948477}
+  - component: {fileID: 111449046157934037}
+  m_Layer: 0
+  m_Name: WaterSplash
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4835148800948477
+Transform:
+  m_GameObject: {fileID: 1973568871297281}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1924.235, y: 144.4863, z: 4781.677}
+  m_LocalScale: {x: 4.421885, y: 4.421885, z: 4.421885}
+  m_Children:
+  - {fileID: 4906570332361349}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!111 &111449046157934037
+Animation:
+  m_GameObject: {fileID: 1973568871297281}
+  m_Enabled: 0
+  serializedVersion: 3
+  m_Animation: {fileID: 0}
+  m_Animations: []
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
+--- !u!1 &1524920788679265
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4906570332361349}
+  - component: {fileID: 33255756035652308}
+  - component: {fileID: 114470700063591163}
+  m_Layer: 0
+  m_Name: Cylinder.002
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4906570332361349
+Transform:
+  m_GameObject: {fileID: 1524920788679265}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.5964152, y: 0.5964152, z: 0.5964152}
+  m_Children: []
+  m_Father: {fileID: 4835148800948477}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
+--- !u!33 &33255756035652308
+MeshFilter:
+  m_GameObject: {fileID: 1524920788679265}
+  m_Mesh: {fileID: 4300000, guid: 293d9c78d8ba8dc45a9c5512e44f2649, type: 2}
+--- !u!114 &114470700063591163
+MonoBehaviour:
+  m_GameObject: {fileID: 1524920788679265}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db1703ef5fc681e41be82c75ee47ee87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  SplashSpeed: 12
+  Frequency: 0.05
