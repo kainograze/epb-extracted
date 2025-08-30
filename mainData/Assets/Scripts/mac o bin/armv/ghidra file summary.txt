@@ -1,0 +1,50 @@
+Project File Name: 	armv7
+Last Modified:	Fri Aug 29 17:43:25 BRT 2025
+Readonly:	false
+Program Name:	armv7
+Language ID:	ARM:LE:32:v7 (1.107)
+Compiler ID:	default
+Processor:	ARM
+Endian:	Little
+Address Size:	32
+Minimum Address:	00001000
+Maximum Address:	00866003
+# of Bytes:	8798496
+# of Memory Blocks:	31
+# of Instructions:	0
+# of Defined Data:	50365
+# of Functions:	963
+# of Symbols:	1157
+# of Data Types:	46
+# of Data Type Categories:	2
+Created With Ghidra Version:	11.4.2
+Date Created:	Fri Aug 29 17:43:21 BRT 2025
+Executable Format:	Mac OS X Mach-O
+Executable Location:	/C:/Users/feist/Desktop/Nova pasta/epb-extracted/mainData/Assets/Scripts/armv/armv7
+Executable MD5:	464c30072793ad37d943a4d30f35fedc
+Executable SHA256:	f6a31f8df535ab6ead6a8492e85139880b9125871d51ee4b8ac41e6e52853ef4
+FSRL:	file:///C:/Users/feist/Desktop/Nova pasta/epb-extracted/mainData/Assets/Scripts/armv/armv7?MD5=464c30072793ad37d943a4d30f35fedc
+Mach-O File Type:	EXECUTE
+Mach-O File Type Description:	Demand Paged Executable File
+Mach-O Flag 0:	NOUNDEFS
+Mach-O Flag 1:	DYLDLINK
+Mach-O Flag 2:	TWOLEVEL
+Mach-O Flag 3:	BINDS_TO_WEAK
+Preferred Root Namespace Category:	
+Relocatable:	false
+Required Library [    0]:	/System/Library/Frameworks/Foundation.framework/Foundation
+Required Library [    1]:	/System/Library/Frameworks/UIKit.framework/UIKit
+Required Library [    2]:	/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+Required Library [    3]:	/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+Required Library [    4]:	/System/Library/Frameworks/OpenAL.framework/OpenAL
+Required Library [    5]:	/usr/lib/libiconv.2.dylib
+Required Library [    6]:	/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+Required Library [    7]:	/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+Required Library [    8]:	/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+Required Library [    9]:	/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+Required Library [   10]:	/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+Required Library [   11]:	/usr/lib/libstdc++.6.dylib
+Required Library [   12]:	/usr/lib/libgcc_s.1.dylib
+Required Library [   13]:	/usr/lib/libSystem.B.dylib
+Required Library [   14]:	/usr/lib/libobjc.A.dylib
+Required Library [   15]:	/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation

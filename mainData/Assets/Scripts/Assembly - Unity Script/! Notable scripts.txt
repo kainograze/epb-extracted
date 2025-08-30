@@ -1,0 +1,43 @@
+The following classes were not found in the decompiler:
+Note: I guess high scores weren't registered in the demo, so everything related
+to them will be empty
+- DontDestroy.cs
+- HighScoreEntry.cs
+- HighScores.cs
+- Joystick.cs
+- LevelDescription.cs
+- Loader.cs
+- LODObjects.cs
+- LODParent.cs
+- MedalScores.cs
+- ScoreBoard.cs
+- ScoreEntry.cs
+- ScoreStored.cs
+
+The following classes were found in the decompiler, but are empty:
+Note: I assume that some of them are empty simply because they were not used, so
+there was no reason to compile them.
+- CannonBallDetector.cs
+- GUIChildControl
+- GUIEndScreen
+- NoRenderer.cs
+- ViewingPoint.cs
+
+The following classes are partially empty (I might have forgotten some):
+- Guns.cs
+- HealthFace.cs
+- Hide
+- MineDetector.cs
+
+The following classes were in the DLL but not on the uTinyRipper rip:
+- InitialProgressCheck.cs
+- FrontSplash.cs
+- Level2Control.cs
+- LevelControl copy.cs
+- LevelControl copy 1.cs
+- LevelControl.cs
+- NoRenderer.cs
+- PirateBoat.cs
+- SplashParticles.cs
+- Tutorial.cs
+- WhaleAnimation.cs
