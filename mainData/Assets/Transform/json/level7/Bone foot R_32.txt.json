@@ -1,0 +1,8 @@
+{
+    "position": "[0.00, 0.02, -0.81]",
+    "rotation": "[0.13, 0.00, 0.00, 0.99]",
+    "scale": "[1.00, 1.00, 1.00]",
+    "parentName": "Bone foot R",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

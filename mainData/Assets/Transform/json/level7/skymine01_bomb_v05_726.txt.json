@@ -1,0 +1,8 @@
+{
+    "position": "[0.00, 0.41, 0.00]",
+    "rotation": "[0.17, -0.69, -0.69, -0.17]",
+    "scale": "[5.81, 5.81, 5.81]",
+    "parentName": "skymine01_bomb_v05",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

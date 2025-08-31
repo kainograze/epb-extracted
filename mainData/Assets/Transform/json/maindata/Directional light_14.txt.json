@@ -1,0 +1,8 @@
+{
+    "position": "[-42.00, 666.00, -500.00]",
+    "rotation": "[0.06, -0.04, 0.76, 0.65]",
+    "scale": "[1.00, 1.00, 1.00]",
+    "parentName": "Directional light",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

@@ -1,0 +1,8 @@
+{
+    "position": "[0.00, -1.75, 0.00]",
+    "rotation": "[0.42, -0.57, -0.57, -0.42]",
+    "scale": "[62.83, 62.83, 62.83]",
+    "parentName": "Health",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

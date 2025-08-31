@@ -1,0 +1,8 @@
+{
+    "position": "[0.00, 0.69, 1.75]",
+    "rotation": "[0.00, 0.00, 0.00, 1.00]",
+    "scale": "[169.20, 169.20, 169.20]",
+    "parentName": "speedboat",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

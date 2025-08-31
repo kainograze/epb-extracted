@@ -1,0 +1,8 @@
+{
+    "position": "[0.00, 0.00, 0.02]",
+    "rotation": "[0.00, 0.00, 0.00, 1.00]",
+    "scale": "[0.01, 0.00, 0.01]",
+    "parentName": "ColliderUpper",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

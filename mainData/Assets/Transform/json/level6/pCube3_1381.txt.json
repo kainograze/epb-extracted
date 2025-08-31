@@ -1,0 +1,8 @@
+{
+    "position": "[0.00, 0.00, 1.89]",
+    "rotation": "[0.00, 0.00, 0.00, 1.00]",
+    "scale": "[100.00, 100.00, 100.00]",
+    "parentName": "pCube3",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}
