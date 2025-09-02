@@ -1,0 +1,21 @@
+{
+    "position": [
+        -61.09,
+        491.19,
+        -4919.1
+    ],
+    "rotation": [
+        0.0,
+        -0.98,
+        0.0,
+        0.21
+    ],
+    "scale": [
+        23.71,
+        23.71,
+        23.71
+    ],
+    "parentName": "TimeRing",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

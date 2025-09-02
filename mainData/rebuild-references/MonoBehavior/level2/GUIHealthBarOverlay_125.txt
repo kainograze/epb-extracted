@@ -1,0 +1,2 @@
+parentName: GUIHealthBarOverlay
+scriptLinked: HealthBarOverlay

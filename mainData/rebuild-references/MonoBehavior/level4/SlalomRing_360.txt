@@ -1,0 +1,2 @@
+parentName: SlalomRing
+scriptLinked: Rotate

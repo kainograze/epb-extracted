@@ -1,0 +1,21 @@
+{
+    "position": [
+        1.64,
+        -0.97,
+        0.0
+    ],
+    "rotation": [
+        0.0,
+        0.0,
+        -0.26,
+        0.97
+    ],
+    "scale": [
+        100.0,
+        100.0,
+        100.0
+    ],
+    "parentName": "polySurface9",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

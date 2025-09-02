@@ -1,0 +1,21 @@
+{
+    "position": [
+        -43.82,
+        46.89,
+        10468.64
+    ],
+    "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+    ],
+    "scale": [
+        31.85,
+        1.0,
+        41.9
+    ],
+    "parentName": "Water",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

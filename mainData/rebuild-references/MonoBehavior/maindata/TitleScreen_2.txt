@@ -1,0 +1,2 @@
+parentName: TitleScreen
+scriptLinked: TitleScreen

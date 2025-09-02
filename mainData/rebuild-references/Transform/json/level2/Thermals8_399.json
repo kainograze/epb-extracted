@@ -1,0 +1,21 @@
+{
+    "position": [
+        1139.42,
+        -10.26,
+        622.16
+    ],
+    "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+    ],
+    "scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "parentName": "Thermals8",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

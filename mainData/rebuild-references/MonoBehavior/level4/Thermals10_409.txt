@@ -1,0 +1,2 @@
+parentName: Thermals10
+scriptLinked: ThermalAnimate

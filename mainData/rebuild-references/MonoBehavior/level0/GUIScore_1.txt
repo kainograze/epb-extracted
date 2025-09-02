@@ -1,0 +1,2 @@
+parentName: GUIScore
+scriptLinked: ScoreBanner

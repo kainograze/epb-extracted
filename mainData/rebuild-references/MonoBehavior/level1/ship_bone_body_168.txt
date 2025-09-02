@@ -1,0 +1,2 @@
+parentName: ship_bone_body
+scriptLinked: LODObjects

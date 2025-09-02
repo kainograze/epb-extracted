@@ -1,0 +1,21 @@
+{
+    "position": [
+        -1613.84,
+        13.4,
+        -398.46
+    ],
+    "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+    ],
+    "scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "parentName": "RubbishCollection",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

@@ -1,0 +1,21 @@
+{
+    "position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "rotation": [
+        0.0,
+        0.21,
+        0.0,
+        0.98
+    ],
+    "scale": [
+        0.91,
+        1.0,
+        0.83
+    ],
+    "parentName": "waagghh_flipping_eck_stop_it_murdoc",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

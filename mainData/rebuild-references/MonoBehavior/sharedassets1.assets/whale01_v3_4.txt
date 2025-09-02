@@ -1,0 +1,2 @@
+parentName: whale01_v3
+scriptLinked: WhaleSeek

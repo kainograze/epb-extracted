@@ -1,8 +1,0 @@
-{
-    "position": "[-0.26, 0.65, 3.16]",
-    "rotation": "[0.01, 1.00, 0.00, 0.02]",
-    "scale": "[1.05, 1.05, 1.05]",
-    "parentName": "WobbleTitle",
-    "parentClassId": "1",
-    "parentClassString": "GameObject"
-}

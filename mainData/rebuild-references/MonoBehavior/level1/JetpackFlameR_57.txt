@@ -1,0 +1,2 @@
+parentName: JetpackFlameR
+scriptLinked: JetpackFlame

@@ -1,0 +1,2 @@
+parentName: GlideController
+scriptLinked: FlightReadOuts

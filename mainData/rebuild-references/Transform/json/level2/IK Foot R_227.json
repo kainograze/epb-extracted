@@ -1,0 +1,21 @@
+{
+    "position": [
+        7.84,
+        16.87,
+        -0.21
+    ],
+    "rotation": [
+        0.0,
+        0.71,
+        0.71,
+        0.0
+    ],
+    "scale": [
+        100.0,
+        100.0,
+        100.0
+    ],
+    "parentName": "IK Foot R",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

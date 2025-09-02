@@ -1,0 +1,21 @@
+{
+    "position": [
+        -3106.59,
+        -48.79,
+        202.46
+    ],
+    "rotation": [
+        0.0,
+        0.99,
+        0.0,
+        -0.15
+    ],
+    "scale": [
+        23.71,
+        23.71,
+        23.71
+    ],
+    "parentName": "SlalomRing",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

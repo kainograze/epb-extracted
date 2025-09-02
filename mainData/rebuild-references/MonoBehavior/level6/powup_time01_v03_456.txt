@@ -1,0 +1,2 @@
+parentName: powup_time01_v03
+scriptLinked: RotateObject

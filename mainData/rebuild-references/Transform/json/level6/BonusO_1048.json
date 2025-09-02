@@ -1,0 +1,21 @@
+{
+    "position": [
+        537.3,
+        41.78,
+        -962.62
+    ],
+    "rotation": [
+        0.0,
+        0.99,
+        0.0,
+        -0.14
+    ],
+    "scale": [
+        5.0,
+        5.0,
+        5.0
+    ],
+    "parentName": "BonusO",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

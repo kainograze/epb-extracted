@@ -1,0 +1,21 @@
+{
+    "position": [
+        9.98,
+        2.78,
+        0.59
+    ],
+    "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+    ],
+    "scale": [
+        0.0,
+        0.0,
+        1.0
+    ],
+    "parentName": "GUIHealthBarOverlay",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

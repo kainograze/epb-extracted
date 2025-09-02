@@ -1,0 +1,2 @@
+parentName: skymine01_ballon_v03
+scriptLinked: LODObjects

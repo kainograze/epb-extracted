@@ -1,0 +1,21 @@
+{
+    "position": [
+        -1086.88,
+        568.5,
+        5838.73
+    ],
+    "rotation": [
+        0.16,
+        0.69,
+        0.69,
+        -0.16
+    ],
+    "scale": [
+        971.0,
+        971.0,
+        971.0
+    ],
+    "parentName": "Doll",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

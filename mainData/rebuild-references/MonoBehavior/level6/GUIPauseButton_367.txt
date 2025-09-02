@@ -1,0 +1,2 @@
+parentName: GUIPauseButton
+scriptLinked: PauseButton

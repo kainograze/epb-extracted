@@ -1,0 +1,21 @@
+{
+    "position": [
+        -2505.38,
+        -57.63,
+        3231.83
+    ],
+    "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+    ],
+    "scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "parentName": "RespawnPoint12",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

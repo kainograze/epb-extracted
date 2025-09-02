@@ -1,0 +1,21 @@
+{
+    "position": [
+        -258.0,
+        150.0,
+        -1337.0
+    ],
+    "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+    ],
+    "scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "parentName": "CutScene2D",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

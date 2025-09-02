@@ -1,0 +1,2 @@
+parentName: leave_me_alone
+scriptLinked: AudioOnOff

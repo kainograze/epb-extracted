@@ -1,0 +1,2 @@
+parentName: CutScene2D
+scriptLinked: CutScene2D

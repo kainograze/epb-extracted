@@ -1,8 +1,0 @@
-{
-    "position": "[0.00, 0.10, 0.00]",
-    "rotation": "[0.71, 0.00, 0.00, -0.71]",
-    "scale": "[0.98, 0.98, 1.00]",
-    "parentName": "Cylinder.001",
-    "parentClassId": "1",
-    "parentClassString": "GameObject"
-}

@@ -1,0 +1,21 @@
+{
+    "position": [
+        -1.02,
+        -2.25,
+        0.28
+    ],
+    "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+    ],
+    "scale": [
+        100.0,
+        100.0,
+        100.0
+    ],
+    "parentName": "right_ski",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

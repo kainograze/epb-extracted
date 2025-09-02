@@ -1,0 +1,21 @@
+{
+    "position": [
+        0.91,
+        0.43,
+        -5.25
+    ],
+    "rotation": [
+        0.71,
+        0.0,
+        0.0,
+        0.71
+    ],
+    "scale": [
+        0.04,
+        2.97,
+        0.37
+    ],
+    "parentName": "SpeedTrail",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

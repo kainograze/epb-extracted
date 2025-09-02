@@ -1,0 +1,21 @@
+{
+    "position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "rotation": [
+        0.0,
+        0.8,
+        0.0,
+        0.6
+    ],
+    "scale": [
+        20.07,
+        20.07,
+        20.07
+    ],
+    "parentName": "Time",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

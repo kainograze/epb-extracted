@@ -1,0 +1,21 @@
+{
+    "position": [
+        -793.2,
+        0.0,
+        13448.22
+    ],
+    "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+    ],
+    "scale": [
+        19811.8,
+        10096.48,
+        91.41
+    ],
+    "parentName": "Border",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

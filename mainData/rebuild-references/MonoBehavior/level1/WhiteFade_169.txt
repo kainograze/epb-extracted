@@ -1,0 +1,2 @@
+parentName: WhiteFade
+scriptLinked: FadeIn

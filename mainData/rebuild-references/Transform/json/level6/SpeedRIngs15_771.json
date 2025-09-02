@@ -1,0 +1,21 @@
+{
+    "position": [
+        -1688.84,
+        -719.58,
+        880.49
+    ],
+    "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+    ],
+    "scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "parentName": "SpeedRIngs15",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

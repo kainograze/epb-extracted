@@ -1,0 +1,21 @@
+{
+    "position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "rotation": [
+        0.0,
+        0.16,
+        0.0,
+        -0.99
+    ],
+    "scale": [
+        0.87,
+        1.0,
+        0.78
+    ],
+    "parentName": "Murdoc eat_lead_stewpot",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

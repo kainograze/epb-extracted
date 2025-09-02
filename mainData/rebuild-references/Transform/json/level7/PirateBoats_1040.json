@@ -1,0 +1,21 @@
+{
+    "position": [
+        926.4,
+        78.76,
+        -968.01
+    ],
+    "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+    ],
+    "scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "parentName": "PirateBoats",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

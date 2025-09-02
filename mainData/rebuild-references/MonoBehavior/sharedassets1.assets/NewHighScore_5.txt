@@ -1,0 +1,2 @@
+parentName: NewHighScore
+scriptLinked: DontDestroy

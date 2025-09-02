@@ -1,0 +1,21 @@
+{
+    "position": [
+        3321.76,
+        217.07,
+        3428.07
+    ],
+    "rotation": [
+        0.0,
+        0.74,
+        0.0,
+        -0.68
+    ],
+    "scale": [
+        1.68,
+        0.16,
+        0.49
+    ],
+    "parentName": "GlideController",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

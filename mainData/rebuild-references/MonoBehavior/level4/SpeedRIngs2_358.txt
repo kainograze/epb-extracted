@@ -1,0 +1,2 @@
+parentName: SpeedRIngs2
+scriptLinked: CombineChildren

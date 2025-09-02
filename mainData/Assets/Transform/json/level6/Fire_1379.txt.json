@@ -1,8 +1,0 @@
-{
-    "position": "[0.56, 1.15, -0.04]",
-    "rotation": "[0.00, -0.68, 0.00, 0.73]",
-    "scale": "[0.06, 0.06, 0.06]",
-    "parentName": "Fire",
-    "parentClassId": "1",
-    "parentClassString": "GameObject"
-}

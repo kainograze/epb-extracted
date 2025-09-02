@@ -1,0 +1,2 @@
+parentName: pirate_ship
+scriptLinked: LODObjects

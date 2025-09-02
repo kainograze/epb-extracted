@@ -1,0 +1,5 @@
+- see whats wrong with exporting mesh renderers
+- if its impossible to fix, export every 3d asset using asset studio
+- if its impossible to fix, see how to add bones (transform might help, might need a different dump??)
+- link all the mono behaviors to objects
+- maybe dump the parent's type?

@@ -1,0 +1,21 @@
+{
+    "position": [
+        107.76,
+        -81.11,
+        -2640.07
+    ],
+    "rotation": [
+        0.0,
+        -0.1,
+        0.0,
+        0.99
+    ],
+    "scale": [
+        0.05,
+        0.05,
+        0.05
+    ],
+    "parentName": "None",
+    "parentClassId": "-1",
+    "parentClassString": "None"
+}

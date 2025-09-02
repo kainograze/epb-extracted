@@ -1,0 +1,21 @@
+{
+    "position": [
+        -0.74,
+        -33.94,
+        -241.65
+    ],
+    "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+    ],
+    "scale": [
+        73.49,
+        73.49,
+        73.49
+    ],
+    "parentName": "WaterTopLayer",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

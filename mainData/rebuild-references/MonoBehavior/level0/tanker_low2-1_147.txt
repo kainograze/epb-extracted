@@ -1,0 +1,2 @@
+parentName: tanker_low2-1
+scriptLinked: LODObjects

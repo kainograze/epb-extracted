@@ -1,0 +1,21 @@
+{
+    "position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "rotation": [
+        0.0,
+        0.21,
+        0.0,
+        0.98
+    ],
+    "scale": [
+        0.86,
+        1.0,
+        0.79
+    ],
+    "parentName": "i_wont_tell_you_again",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

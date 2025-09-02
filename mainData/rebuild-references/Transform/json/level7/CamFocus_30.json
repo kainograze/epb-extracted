@@ -1,0 +1,21 @@
+{
+    "position": [
+        14.91,
+        3.04,
+        10.29
+    ],
+    "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+    ],
+    "scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "parentName": "CamFocus",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

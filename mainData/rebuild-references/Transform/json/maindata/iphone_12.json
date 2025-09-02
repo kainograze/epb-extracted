@@ -1,0 +1,21 @@
+{
+    "position": [
+        -174.77,
+        160.45,
+        -1350.65
+    ],
+    "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+    ],
+    "scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "parentName": "iphone",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

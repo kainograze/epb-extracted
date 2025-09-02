@@ -1,0 +1,2 @@
+parentName: MuzzleFlashL
+scriptLinked: MuzzleFlash

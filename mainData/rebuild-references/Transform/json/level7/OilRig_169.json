@@ -1,0 +1,21 @@
+{
+    "position": [
+        3240.39,
+        -210.72,
+        696.22
+    ],
+    "rotation": [
+        0.0,
+        -0.01,
+        0.0,
+        1.0
+    ],
+    "scale": [
+        0.03,
+        0.03,
+        0.03
+    ],
+    "parentName": "OilRig",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

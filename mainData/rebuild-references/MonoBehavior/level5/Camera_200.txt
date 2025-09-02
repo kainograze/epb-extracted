@@ -1,0 +1,2 @@
+parentName: Camera
+scriptLinked: CameraSlerp

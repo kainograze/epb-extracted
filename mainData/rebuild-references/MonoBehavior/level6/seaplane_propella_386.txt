@@ -1,0 +1,2 @@
+parentName: seaplane_propella
+scriptLinked: Rotate

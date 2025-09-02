@@ -1,0 +1,2 @@
+parentName: BonusB
+scriptLinked: CombineChildren

@@ -1,0 +1,21 @@
+{
+    "position": [
+        840.19,
+        92.81,
+        -21.88
+    ],
+    "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+    ],
+    "scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "parentName": "Radio Towers",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

@@ -1,0 +1,21 @@
+{
+    "position": [
+        52.32,
+        117.69,
+        -1036.6
+    ],
+    "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+    ],
+    "scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "parentName": "LevelControl",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

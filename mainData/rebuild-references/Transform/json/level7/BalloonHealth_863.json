@@ -1,0 +1,21 @@
+{
+    "position": [
+        2026.26,
+        105.54,
+        -35.71
+    ],
+    "rotation": [
+        0.0,
+        -0.15,
+        0.0,
+        0.99
+    ],
+    "scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "parentName": "BalloonHealth",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

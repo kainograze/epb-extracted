@@ -1,0 +1,2 @@
+parentName: radio_tower_low2
+scriptLinked: LODObjects

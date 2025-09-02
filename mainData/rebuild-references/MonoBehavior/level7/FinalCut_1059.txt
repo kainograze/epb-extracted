@@ -1,0 +1,2 @@
+parentName: FinalCut
+scriptLinked: GUIEndCut

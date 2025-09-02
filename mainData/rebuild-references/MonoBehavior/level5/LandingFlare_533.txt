@@ -1,0 +1,2 @@
+parentName: LandingFlare
+scriptLinked: ParticleEmitters

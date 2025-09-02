@@ -1,0 +1,2 @@
+parentName: Mine
+scriptLinked: Mine

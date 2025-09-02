@@ -1,0 +1,21 @@
+{
+    "position": [
+        -112.26,
+        -192.34,
+        2099.06
+    ],
+    "rotation": [
+        0.0,
+        -0.42,
+        0.0,
+        0.91
+    ],
+    "scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "parentName": "BalloonTime",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

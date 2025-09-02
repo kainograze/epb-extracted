@@ -1,0 +1,2 @@
+parentName: RubbishCollection
+scriptLinked: CombineChildren

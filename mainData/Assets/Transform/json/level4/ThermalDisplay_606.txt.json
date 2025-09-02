@@ -1,8 +1,0 @@
-{
-    "position": "[0.31, 0.00, 1.33]",
-    "rotation": "[1.00, 0.00, 0.00, 0.00]",
-    "scale": "[1.42, 0.81, 0.81]",
-    "parentName": "ThermalDisplay",
-    "parentClassId": "1",
-    "parentClassString": "GameObject"
-}

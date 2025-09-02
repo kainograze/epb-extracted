@@ -1,0 +1,2 @@
+parentName: skymine01_bomb_v05
+scriptLinked: Hide

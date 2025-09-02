@@ -1,0 +1,21 @@
+{
+    "position": [
+        0.06,
+        0.0,
+        0.0
+    ],
+    "rotation": [
+        0.0,
+        0.99,
+        0.0,
+        -0.16
+    ],
+    "scale": [
+        0.8,
+        0.8,
+        0.8
+    ],
+    "parentName": "JunkRingInner",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

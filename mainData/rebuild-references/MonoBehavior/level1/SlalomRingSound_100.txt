@@ -1,0 +1,2 @@
+parentName: SlalomRingSound
+scriptLinked: AudioOnOff

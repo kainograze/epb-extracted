@@ -1,0 +1,21 @@
+{
+    "position": [
+        86.88,
+        345.11,
+        -195.59
+    ],
+    "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+    ],
+    "scale": [
+        66.44,
+        66.44,
+        66.44
+    ],
+    "parentName": "EscapeCamPos",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

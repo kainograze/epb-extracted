@@ -1,0 +1,2 @@
+parentName: speedboat_boat01
+scriptLinked: PassingScript

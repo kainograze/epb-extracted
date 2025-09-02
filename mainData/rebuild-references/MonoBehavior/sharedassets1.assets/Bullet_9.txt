@@ -1,0 +1,2 @@
+parentName: Bullet
+scriptLinked: BulletsObject

@@ -1,8 +1,0 @@
-{
-    "position": "[0.00, 0.00, 0.00]",
-    "rotation": "[-0.22, 0.30, -0.14, 0.92]",
-    "scale": "[1.00, 1.00, 1.00]",
-    "parentName": "SoundFX",
-    "parentClassId": "1",
-    "parentClassString": "GameObject"
-}

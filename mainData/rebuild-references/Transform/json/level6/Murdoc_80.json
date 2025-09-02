@@ -1,0 +1,21 @@
+{
+    "position": [
+        14.92,
+        -1.8,
+        15.91
+    ],
+    "rotation": [
+        0.0,
+        -1.0,
+        0.0,
+        -0.04
+    ],
+    "scale": [
+        0.03,
+        0.03,
+        0.03
+    ],
+    "parentName": "Murdoc",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

@@ -1,0 +1,2 @@
+parentName: Speed_Ring_Large
+scriptLinked: Rotate

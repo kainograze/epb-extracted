@@ -1,0 +1,21 @@
+{
+    "position": [
+        10.28,
+        2.6,
+        0.09
+    ],
+    "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+    ],
+    "scale": [
+        0.0,
+        0.0,
+        1.0
+    ],
+    "parentName": "GUIScore",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

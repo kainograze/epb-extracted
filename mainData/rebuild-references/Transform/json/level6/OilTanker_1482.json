@@ -1,0 +1,21 @@
+{
+    "position": [
+        -858.3,
+        12.18,
+        -5703.1
+    ],
+    "rotation": [
+        0.23,
+        -0.48,
+        -0.13,
+        0.84
+    ],
+    "scale": [
+        6160.67,
+        6160.67,
+        6160.67
+    ],
+    "parentName": "OilTanker",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

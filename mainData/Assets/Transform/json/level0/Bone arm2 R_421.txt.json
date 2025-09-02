@@ -1,8 +1,0 @@
-{
-    "position": "[0.02, 0.04, 0.49]",
-    "rotation": "[0.92, -0.05, -0.17, 0.34]",
-    "scale": "[1.00, 1.00, 1.00]",
-    "parentName": "Bone arm2 R",
-    "parentClassId": "1",
-    "parentClassString": "GameObject"
-}

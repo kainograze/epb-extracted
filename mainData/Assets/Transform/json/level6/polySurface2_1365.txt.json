@@ -1,8 +1,0 @@
-{
-    "position": "[0.00, 0.00, 0.00]",
-    "rotation": "[0.00, 0.00, 0.00, 1.00]",
-    "scale": "[100.00, 100.00, 100.00]",
-    "parentName": "polySurface2",
-    "parentClassId": "1",
-    "parentClassString": "GameObject"
-}

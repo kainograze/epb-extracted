@@ -1,0 +1,21 @@
+{
+    "position": [
+        -4381.67,
+        -96.3,
+        308.79
+    ],
+    "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+    ],
+    "scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "parentName": "Thermals3",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

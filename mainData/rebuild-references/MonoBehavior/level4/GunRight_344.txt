@@ -1,0 +1,2 @@
+parentName: GunRight
+scriptLinked: Guns

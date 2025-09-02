@@ -1,0 +1,21 @@
+{
+    "position": [
+        0.36,
+        0.0,
+        1.33
+    ],
+    "rotation": [
+        0.0,
+        1.0,
+        0.0,
+        0.0
+    ],
+    "scale": [
+        1.42,
+        0.81,
+        0.81
+    ],
+    "parentName": "StallDisplay",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

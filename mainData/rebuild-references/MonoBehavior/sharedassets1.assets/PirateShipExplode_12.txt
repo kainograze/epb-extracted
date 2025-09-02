@@ -1,0 +1,2 @@
+parentName: PirateShipExplode
+scriptLinked: OneShotAudioDelete

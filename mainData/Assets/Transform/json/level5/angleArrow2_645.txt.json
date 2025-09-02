@@ -1,8 +1,0 @@
-{
-    "position": "[0.00, -0.91, 2.01]",
-    "rotation": "[0.00, -0.71, -0.71, 0.00]",
-    "scale": "[0.75, 0.75, 0.75]",
-    "parentName": "angleArrow2",
-    "parentClassId": "1",
-    "parentClassString": "GameObject"
-}

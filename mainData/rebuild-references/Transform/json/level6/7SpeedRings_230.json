@@ -1,0 +1,21 @@
+{
+    "position": [
+        702.55,
+        518.84,
+        908.78
+    ],
+    "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+    ],
+    "scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "parentName": "7SpeedRings",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

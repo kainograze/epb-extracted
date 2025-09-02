@@ -1,0 +1,2 @@
+parentName: wp1
+scriptLinked: Waypoint

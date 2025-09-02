@@ -1,8 +1,0 @@
-{
-    "position": "[0.00, 0.00, 0.00]",
-    "rotation": "[0.71, -0.04, -0.04, -0.71]",
-    "scale": "[3.03, 3.03, 3.03]",
-    "parentName": "powup_time01_v03",
-    "parentClassId": "1",
-    "parentClassString": "GameObject"
-}

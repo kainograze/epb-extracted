@@ -1,0 +1,2 @@
+parentName: RadioTower
+scriptLinked: LODParent

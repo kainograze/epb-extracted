@@ -1,0 +1,21 @@
+{
+    "position": [
+        0.0,
+        -29.69,
+        39.1
+    ],
+    "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+    ],
+    "scale": [
+        0.59,
+        6.24,
+        2.06
+    ],
+    "parentName": "WindLower",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

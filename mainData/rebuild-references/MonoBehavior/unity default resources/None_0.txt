@@ -1,0 +1,2 @@
+parentName: None
+scriptLinked: GUISkin

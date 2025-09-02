@@ -1,0 +1,21 @@
+{
+    "position": [
+        -2828.01,
+        -600.98,
+        1584.19
+    ],
+    "rotation": [
+        -0.68,
+        -0.05,
+        -0.02,
+        0.73
+    ],
+    "scale": [
+        100.0,
+        100.0,
+        100.0
+    ],
+    "parentName": "Target",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

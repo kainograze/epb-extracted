@@ -1,0 +1,21 @@
+{
+    "position": [
+        -5782.62,
+        -216.26,
+        -613.38
+    ],
+    "rotation": [
+        0.1,
+        -0.63,
+        -0.7,
+        0.33
+    ],
+    "scale": [
+        5.16,
+        5.16,
+        5.16
+    ],
+    "parentName": "JumboPlane",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

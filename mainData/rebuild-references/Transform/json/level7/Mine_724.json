@@ -1,0 +1,21 @@
+{
+    "position": [
+        2372.72,
+        194.42,
+        -177.46
+    ],
+    "rotation": [
+        0.0,
+        0.64,
+        0.0,
+        0.77
+    ],
+    "scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "parentName": "Mine",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

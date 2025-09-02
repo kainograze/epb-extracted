@@ -1,0 +1,21 @@
+{
+    "position": [
+        -1450.61,
+        -248.36,
+        -661.31
+    ],
+    "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+    ],
+    "scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "parentName": "WayPoint18",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

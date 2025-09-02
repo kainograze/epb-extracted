@@ -1,0 +1,2 @@
+parentName: Thermals5
+scriptLinked: CombineChildren

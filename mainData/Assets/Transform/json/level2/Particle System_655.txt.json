@@ -1,8 +1,0 @@
-{
-    "position": "[0.00, 0.00, 0.00]",
-    "rotation": "[0.06, -0.70, -0.70, -0.06]",
-    "scale": "[246.57, 246.57, 246.57]",
-    "parentName": "Particle System",
-    "parentClassId": "1",
-    "parentClassString": "GameObject"
-}

@@ -1,0 +1,21 @@
+{
+    "position": [
+        -0.08,
+        -0.11,
+        0.4
+    ],
+    "rotation": [
+        0.99,
+        -0.08,
+        -0.09,
+        0.03
+    ],
+    "scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "parentName": "Bone arm R",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

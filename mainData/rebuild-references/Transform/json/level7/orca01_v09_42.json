@@ -1,0 +1,21 @@
+{
+    "position": [
+        -0.01,
+        -0.01,
+        0.0
+    ],
+    "rotation": [
+        0.0,
+        0.71,
+        0.0,
+        0.71
+    ],
+    "scale": [
+        0.14,
+        0.14,
+        0.14
+    ],
+    "parentName": "orca01_v09",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

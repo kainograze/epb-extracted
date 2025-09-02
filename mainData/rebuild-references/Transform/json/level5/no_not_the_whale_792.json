@@ -1,0 +1,21 @@
+{
+    "position": [
+        39.28,
+        -278.85,
+        1073.07
+    ],
+    "rotation": [
+        0.0,
+        0.21,
+        0.0,
+        0.98
+    ],
+    "scale": [
+        0.86,
+        1.0,
+        0.79
+    ],
+    "parentName": "no_not_the_whale",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

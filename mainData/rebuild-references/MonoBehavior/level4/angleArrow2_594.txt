@@ -1,0 +1,2 @@
+parentName: angleArrow2
+scriptLinked: ArrowMarker

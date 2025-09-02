@@ -1,0 +1,2 @@
+parentName: ThermalDisplay
+scriptLinked: Thermal

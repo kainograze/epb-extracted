@@ -1,0 +1,2 @@
+parentName: Cylinder.001
+scriptLinked: ThermalAnimate

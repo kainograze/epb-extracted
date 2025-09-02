@@ -1,0 +1,2 @@
+parentName: GUIInstructions
+scriptLinked: GUIInstructionsParent

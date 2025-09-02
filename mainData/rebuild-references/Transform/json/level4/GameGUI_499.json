@@ -1,0 +1,21 @@
+{
+    "position": [
+        -9.72,
+        -1.81,
+        -0.09
+    ],
+    "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+    ],
+    "scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "parentName": "GameGUI",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

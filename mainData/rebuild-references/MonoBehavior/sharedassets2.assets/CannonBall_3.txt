@@ -1,0 +1,2 @@
+parentName: CannonBall
+scriptLinked: EnemyHit

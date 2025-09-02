@@ -1,0 +1,2 @@
+parentName: MineDetector
+scriptLinked: MineDetector

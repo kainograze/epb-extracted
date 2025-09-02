@@ -1,0 +1,21 @@
+{
+    "position": [
+        -1413.66,
+        -524.66,
+        2638.48
+    ],
+    "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+    ],
+    "scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "parentName": "fireball_by_13",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

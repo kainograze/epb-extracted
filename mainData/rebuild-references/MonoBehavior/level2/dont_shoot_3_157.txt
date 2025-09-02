@@ -1,0 +1,2 @@
+parentName: dont_shoot_3
+scriptLinked: AudioOnOff

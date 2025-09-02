@@ -1,0 +1,2 @@
+parentName: its_your_own_time_youre_wasting
+scriptLinked: AudioOnOff

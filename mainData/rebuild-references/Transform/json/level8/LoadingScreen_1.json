@@ -1,0 +1,21 @@
+{
+    "position": [
+        -33.01,
+        1.33,
+        -47.08
+    ],
+    "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+    ],
+    "scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "parentName": "LoadingScreen",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

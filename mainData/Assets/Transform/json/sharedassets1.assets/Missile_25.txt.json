@@ -1,8 +1,0 @@
-{
-    "position": "[-0.56, 0.00, 0.00]",
-    "rotation": "[0.00, 0.00, 0.00, 1.00]",
-    "scale": "[0.50, 1.21, 1.22]",
-    "parentName": "Missile",
-    "parentClassId": "1",
-    "parentClassString": "GameObject"
-}

@@ -1,0 +1,21 @@
+{
+    "position": [
+        3321.23,
+        123.11,
+        3370.51
+    ],
+    "rotation": [
+        0.01,
+        -0.65,
+        -0.12,
+        -0.75
+    ],
+    "scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "parentName": "TakeOff",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

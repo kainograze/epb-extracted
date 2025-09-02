@@ -1,0 +1,2 @@
+parentName: Bone_boat
+scriptLinked: MakeBlack

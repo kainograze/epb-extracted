@@ -1,0 +1,2 @@
+parentName: oilrig
+scriptLinked: LODObjects

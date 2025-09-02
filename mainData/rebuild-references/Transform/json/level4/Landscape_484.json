@@ -1,0 +1,21 @@
+{
+    "position": [
+        114.52,
+        238.37,
+        -1544.48
+    ],
+    "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+    ],
+    "scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "parentName": "Landscape",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

@@ -1,0 +1,21 @@
+{
+    "position": [
+        222.2,
+        229.28,
+        -1159.95
+    ],
+    "rotation": [
+        -0.04,
+        0.93,
+        -0.1,
+        -0.34
+    ],
+    "scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "parentName": "Camera",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

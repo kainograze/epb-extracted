@@ -1,0 +1,21 @@
+{
+    "position": [
+        0.0,
+        0.09,
+        0.46
+    ],
+    "rotation": [
+        -0.22,
+        0.0,
+        0.0,
+        0.98
+    ],
+    "scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "parentName": "Bone head",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

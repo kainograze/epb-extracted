@@ -1,0 +1,2 @@
+parentName: orca_boat
+scriptLinked: MakeBlack

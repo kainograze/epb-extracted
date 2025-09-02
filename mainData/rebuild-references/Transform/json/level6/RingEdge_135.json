@@ -1,0 +1,21 @@
+{
+    "position": [
+        0.33,
+        0.0,
+        -11.14
+    ],
+    "rotation": [
+        0.0,
+        0.01,
+        0.0,
+        -1.0
+    ],
+    "scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "parentName": "RingEdge",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

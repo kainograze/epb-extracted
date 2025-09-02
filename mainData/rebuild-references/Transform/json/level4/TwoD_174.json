@@ -1,0 +1,21 @@
+{
+    "position": [
+        101.86,
+        -36.33,
+        -945.23
+    ],
+    "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+    ],
+    "scale": [
+        665.27,
+        665.27,
+        665.27
+    ],
+    "parentName": "TwoD",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

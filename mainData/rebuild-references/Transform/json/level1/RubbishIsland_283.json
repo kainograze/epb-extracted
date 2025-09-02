@@ -1,0 +1,21 @@
+{
+    "position": [
+        -3777.17,
+        -8.63,
+        -996.11
+    ],
+    "rotation": [
+        -0.71,
+        0.0,
+        0.0,
+        0.71
+    ],
+    "scale": [
+        2141.27,
+        2141.27,
+        2141.27
+    ],
+    "parentName": "RubbishIsland",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}

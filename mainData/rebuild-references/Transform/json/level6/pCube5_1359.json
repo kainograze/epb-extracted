@@ -1,0 +1,21 @@
+{
+    "position": [
+        -0.61,
+        -0.57,
+        1.91
+    ],
+    "rotation": [
+        0.0,
+        0.02,
+        0.68,
+        0.73
+    ],
+    "scale": [
+        100.0,
+        100.0,
+        100.0
+    ],
+    "parentName": "pCube5",
+    "parentClassId": "1",
+    "parentClassString": "GameObject"
+}
